@@ -31,4 +31,4 @@ RMSE and R²
 - Try tree-based models
 
 ## Verdict
-“Linear Regression severely overfit due to small dataset and correlated engineered features. Ridge stabilized coefficient magnitudes and significantly reduced error. Lasso further simplified the model by eliminating weak features, demonstrating automatic feature selection. Although R² remained negative due to limited data size, RMSE improved substantially, highlighting the importance of regularization in practical regression tasks.” Don't worry
+“Linear Regression severely overfit due to small dataset and correlated engineered features. Ridge stabilized coefficient magnitudes and significantly reduced error. Lasso further simplified the model by eliminating weak features, demonstrating automatic feature selection. Although R² remained negative due to limited data size, RMSE improved substantially, highlighting the importance of regularization in practical regression tasks.”
